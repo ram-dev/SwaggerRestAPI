@@ -1,4 +1,4 @@
-# Simple Rest API Using Express, MongoDB, NodeJs and Swagger UI
+# Sample Rest API Using Express, MongoDB, NodeJs and Swagger UI
 
 ### First Step
 To install the packages, run:
