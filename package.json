@@ -1,0 +1,27 @@
+{
+  "name": "swagger-rest-example",
+  "version": "0.0.0",
+  "description": "Rest Example for swagger",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"   
+  },
+  "keywords": [
+    "swagger",
+    "swagger-tools",
+    "express",
+    "node"
+  ],
+  "license": "MIT",
+  "author": "Ramkumar",
+  "private": true,
+  "dependencies": {   
+    "swagger-tools": "^0.9.7",    
+    "JSONStream": "^1.0.4",
+    "config": "^1.15.0",
+    "express": "^4.13.2",
+    "mongoose": "^4.1.0",       
+    "swagger2mongoose": "^1.1.0",
+    "winston": "^1.0.1"
+  }
+}
